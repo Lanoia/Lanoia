@@ -20,7 +20,7 @@
   </a>
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lanoia&theme=dark&hide_border=true&include_all_commits=false&count_private=false" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lanoia&theme=dark&hide_border=true" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanoia&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lanoia&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lanoia&theme=chartreuse-dark&hide_border=false" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanoia&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
